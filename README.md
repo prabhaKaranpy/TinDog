@@ -1,7 +1,5 @@
 # TinDog Project
 
-## Text:
-
 Meet new and interesting dogs nearby.
 
 Easy to use.
